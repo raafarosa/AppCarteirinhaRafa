@@ -1,0 +1,17 @@
+{
+  "name": "Estacio",
+  "short_name": "Estacio",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f2f2f2",
+  "theme_color": "#f2f2f2",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "AppLogo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
